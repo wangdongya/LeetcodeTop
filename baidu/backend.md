@@ -1,21 +1,21 @@
 | 公司 | 岗位 | 题目                           | 链接                                                                                                  | 频度 |
 |----|----|------------------------------|-----------------------------------------------------------------------------------------------------|----|
-| 百度 | 后端 | 102. 二叉树的层序遍历                | https://leetcode-cn.com/problems/binary-tree-level-order-traversal/                                 | 4  |
+| 百度 | 后端 | 102. 二叉树的层序遍历                | https://leetcode-cn.com/problems/binary-tree-level-order-traversal/                                 | 5  |
 | 百度 | 后端 | 206. 反转链表                    | https://leetcode-cn.com/problems/reverse-linked-list/                                               | 4  |
+| 百度 | 后端 | 剑指 Offer 39. 数组中出现次数超过一半的数字  | https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/       | 3  |
 | 百度 | 后端 | 94. 二叉树的中序遍历                 | https://leetcode-cn.com/problems/binary-tree-inorder-traversal/                                     | 3  |
 | 百度 | 后端 | 199. 二叉树的右视图                 | https://leetcode-cn.com/problems/binary-tree-right-side-view/                                       | 3  |
 | 百度 | 后端 | 4. 寻找两个正序数组的中位数              | https://leetcode-cn.com/problems/median-of-two-sorted-arrays/                                       | 3  |
+| 百度 | 后端 | 146. LRU缓存机制                 | https://leetcode-cn.com/problems/lru-cache/                                                         | 3  |
 | 百度 | 后端 | 142. 环形链表 II                 | https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/                                     | 3  |
 | 百度 | 后端 | 268. 缺失数字                    | https://leetcode-cn.com/problems/missing-number/                                                    | 2  |
 | 百度 | 后端 | 160. 相交链表                    | https://leetcode-cn.com/problems/intersection-of-two-linked-lists/                                  | 2  |
 | 百度 | 后端 | 62. 不同路径                     | https://leetcode-cn.com/problems/unique-paths/                                                      | 2  |
-| 百度 | 后端 | 146. LRU缓存机制                 | https://leetcode-cn.com/problems/lru-cache/                                                         | 2  |
 | 百度 | 后端 | 349. 两个数组的交集                 | https://leetcode-cn.com/problems/intersection-of-two-arrays/                                        | 2  |
 | 百度 | 后端 | 19. 删除链表的倒数第N个节点             | https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/                                  | 2  |
 | 百度 | 后端 | 面试题 01.06. 字符串压缩             | https://leetcode-cn.com/problems/compress-string-lcci/                                              | 2  |
 | 百度 | 后端 | 104. 二叉树的最大深度                | https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/                                      | 2  |
 | 百度 | 后端 | 20. 有效的括号                    | https://leetcode-cn.com/problems/valid-parentheses/                                                 | 2  |
-| 百度 | 后端 | 剑指 Offer 39. 数组中出现次数超过一半的数字  | https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/       | 2  |
 | 百度 | 后端 | 69. x 的平方根                   | https://leetcode-cn.com/problems/sqrtx/                                                             | 2  |
 | 百度 | 后端 | 449. 序列化和反序列化二叉搜索树           | https://leetcode-cn.com/problems/serialize-and-deserialize-bst/                                     | 1  |
 | 百度 | 后端 | 105. 从前序与中序遍历序列构造二叉树         | https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/         | 1  |
